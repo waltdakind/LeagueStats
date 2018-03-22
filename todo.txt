@@ -1,0 +1,5 @@
+1. choices for league -- A, B, or C
+2. choices for team
+3. authentication of user (team captains only)
+4. week of match
+5. difference between league games (21 games for A league, 501 DIDO for B, 501 MIMO for C)
