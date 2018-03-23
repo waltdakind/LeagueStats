@@ -3,3 +3,17 @@
 3. authentication of user (team captains only)
 4. week of match
 5. difference between league games (21 games for A league, 501 DIDO for B, 501 MIMO for C)
+
+6. collect result of each match along with stats for home team shooter and away team shooter
+
+  collect PPD if game is 501
+  collect MPR if game is cricket
+  
+ 7. Display ongoing tally of wins/losses for Home/Away
+ 8. At end of games, allow for review/edit and verification by both teams and collect data for league database
+ 
+ 
+ 
+ 9. allow for lookup by player, average of team, standings by team
+ 
+ 
